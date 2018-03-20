@@ -1,0 +1,6 @@
+2018/03/20-08:56:56.297 3142 Reusing MANIFEST /home/john/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2018/03/20-08:56:56.298 3142 Recovering log #4
+2018/03/20-08:56:56.298 3142 Reusing old log /home/john/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2018/03/20-14:24:09.687 7761 Level-0 table #8: started
+2018/03/20-14:24:09.738 7761 Level-0 table #8: 2595790 bytes OK
+2018/03/20-14:24:09.741 7761 Delete type=0 #4

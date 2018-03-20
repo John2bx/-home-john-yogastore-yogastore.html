@@ -1,0 +1,7 @@
+"*":
+  core:
+    disabledPackages: [
+      "language-shellscript"
+    ]
+  "exception-reporting":
+    userId: "4b91a56b-d86e-4e0a-95e6-1b3637f48259"

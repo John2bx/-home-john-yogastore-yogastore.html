@@ -1,0 +1,29 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1521532541
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1521532541
+nautilus-icon-position=56,26
+icon-scale=1
+
+[UBUNTU 17_1.volume]
+nautilus-icon-position-timestamp=1518042522
+nautilus-icon-position=56,146
+icon-scale=1
+
+[iPhone.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1520890787
+
+[Documenten op iPhone van John.volume]
+nautilus-icon-position=56,266
+icon-scale=1
+nautilus-icon-position-timestamp=1520891650
+
+[Windows.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1521459057

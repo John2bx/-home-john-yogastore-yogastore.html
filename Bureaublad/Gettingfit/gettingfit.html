@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+
+    // Setup initial values
+    var age = parseFloat(prompt('What is your age?'));
+    var gender = prompt("What is your gender 'm' or 'f'?");
+    var height = parseFloat(prompt('What is your heigt?'));
+    var weight = parseFloat(prompt('What is your weight in kgs?'));
+    var exerciseLevel = parseInt(prompt('What is your exerciseLevel?'));
+
+bmi = weight / Math.pow((height/100),2)
+
+idealWeight = (0.5 * bmi + 11.5) * Math.pow((height/100),2)
+
+console.log(idealWeight)
+
+bmr = 10.0 * weight + 6.25 * height - 5.0 * age;
+if (gender === 'm') {
+  bmr += 5;
+}
+if (gender === 'f') {
+  bmr -= 161;
+}
+
+console.log(bmr)
+
+</script>
+</body>

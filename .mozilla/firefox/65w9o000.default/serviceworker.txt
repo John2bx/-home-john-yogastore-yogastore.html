@@ -1,0 +1,11 @@
+8
+
+https://readest.codaisseur.com/
+https://readest.codaisseur.com/service-worker.js
+true
+{7a22da3f-c42a-4d06-9381-66fd062dea0b}
+0
+1521451045856957
+1521451045863300
+1521451045548249
+#
